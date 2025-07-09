@@ -54,7 +54,7 @@
 
 ### 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sreshtachelumala/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/yourusername/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square)](mailto:sreshtachelumala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)]([https://www.linkedin.com/in/sreshtachelumala/](https://www.linkedin.com/in/sreshtachelumala16012004/))
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/_sreshta_chelumala_/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square)](mailto:sreshtachelumala16@gmail.com)
 
